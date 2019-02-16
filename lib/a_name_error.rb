@@ -1,3 +1,3 @@
 "hello world"
 
-ruby hello_world
+hello_world
